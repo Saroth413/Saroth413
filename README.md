@@ -1,8 +1,7 @@
-### Hi there 👋, **I'm Saroth Ameen**
-####  🙍  𝐈'𝐦 𝐚 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 & 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐟𝐫𝐨𝐦 𝐒𝐫𝐢 𝐋𝐚𝐧𝐤𝐚.
- 🙍  𝐈'𝐦 𝐚 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 & 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐟𝐫𝐨𝐦 𝐒𝐫𝐢 𝐋𝐚𝐧𝐤𝐚.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saroth413)](https://github.com/anuraghazra/github-readme-stats)
+ ![Design and Development](https://github.com/Saroth413/Saroth413/blob/main/Freelancing%20Promotion%20Facebook%20Cover%20Photo.png)
+ 
+ # Hi there 👋, I'm Saroth Ameen
+🙍  𝐈'𝐦 𝐚 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 & 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐟𝐫𝐨𝐦 𝐒𝐫𝐢 𝐋𝐚𝐧𝐤𝐚.
 
 🎓 𝐈'𝐦 𝐟𝐢𝐧𝐚𝐥 𝐲𝐞𝐚𝐫 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐚𝐭  [𝐒𝐚𝐛𝐚𝐫𝐚𝐠𝐚𝐦𝐮𝐰𝐚 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐨𝐟 𝐒𝐫𝐢 𝐋𝐚𝐧𝐤𝐚](https://www.sab.ac.lk/).
 
@@ -11,11 +10,15 @@
 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞 ... 𝐌𝐚𝐢𝐥: [𝐚𝐦𝐞𝐞𝐧𝐬𝐚𝐫𝐨𝐭𝐡@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦](𝐚𝐦𝐞𝐞𝐧𝐬𝐚𝐫𝐨𝐭𝐡@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦).
 
 
-Skills: HTML  5 / CSS 3 / JS / BOOTSTRAP 5
 
 - 🔭 I’m currently working on [𝐀𝐩𝐩𝐬 𝐋𝐚𝐧𝐤𝐚 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 (𝐩𝐯𝐭).𝐋𝐓𝐃](https://appslanka.lk/) 👍 
 - 🌱 I’m currently learning BOOTSTRAP 5 AND SASS 
 - 📫 How to reach me: 𝐌𝐚𝐢𝐥:  [𝐚𝐦𝐞𝐞𝐧𝐬𝐚𝐫𝐨𝐭𝐡@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦](𝐚𝐦𝐞𝐞𝐧𝐬𝐚𝐫𝐨𝐭𝐡@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦). 
+
+
+## Skills and Experience
+![image](https://user-images.githubusercontent.com/120448433/208863250-87734756-994d-4e28-b442-480daf8d7d74.png)
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Saroth413)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Saroth)  
