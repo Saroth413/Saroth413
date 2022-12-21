@@ -8,9 +8,6 @@
 📝 𝐈’𝐦 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐧𝐞𝐰 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐚𝐧𝐝 𝐮𝐩𝐝𝐚𝐭𝐞𝐬 𝐚𝐛𝐨𝐮𝐭 𝐈𝐓 𝐢𝐧𝐝𝐮𝐬𝐭𝐫𝐲 🎯
 
 
-## Skills and Experience
-![image](https://user-images.githubusercontent.com/120448433/208863250-87734756-994d-4e28-b442-480daf8d7d74.png)
-
 
 
 - 🔭 I’m currently working on [𝐀𝐩𝐩𝐬 𝐋𝐚𝐧𝐤𝐚 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 (𝐩𝐯𝐭).𝐋𝐓𝐃](https://appslanka.lk/) 👍 
@@ -22,6 +19,11 @@
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Saroth413)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SarothAmeen/) 
+
+
+## Skills and Experience
+![image](https://user-images.githubusercontent.com/120448433/208863250-87734756-994d-4e28-b442-480daf8d7d74.png)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Saroth413)](https://github.com/ryo-ma/github-profile-trophy)
 
