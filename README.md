@@ -13,23 +13,10 @@
 - 🔭 I’m currently working on [𝐀𝐩𝐩𝐬 𝐋𝐚𝐧𝐤𝐚 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 (𝐩𝐯𝐭).𝐋𝐓𝐃](https://appslanka.lk/) 👍 
 - 🌱 I’m currently learning BOOTSTRAP 5 AND SASS 
 - 📫 How to reach me: 𝐌𝐚𝐢𝐥:  [𝐚𝐦𝐞𝐞𝐧𝐬𝐚𝐫𝐨𝐭𝐡@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦](𝐚𝐦𝐞𝐞𝐧𝐬𝐚𝐫𝐨𝐭𝐡@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦). 
-- 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞 ... 𝐌𝐚𝐢𝐥: **𝐚𝐦𝐞𝐞𝐧𝐬𝐚𝐫𝐨𝐭𝐡@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://linkedin.com/in/saroth ameen](https://www.linkedin.com/in/saroth-ameen-3a931a211/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saroth ameen" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/saroth ameen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saroth ameen" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 ### Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/saroth ameen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saroth ameen" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/saroth ameen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saroth ameen" height="30" width="40" /></a>
-</p>
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Saroth413)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/Saroth_Ameen/](https://www.linkedin.com/in/saroth-ameen-3a931a211/)) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Saroth_Ameen) 
 
