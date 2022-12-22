@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [𝐀𝐩𝐩𝐬 𝐋𝐚𝐧𝐤𝐚 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 (𝐩𝐯𝐭).𝐋𝐓𝐃](https://appslanka.lk/) 👍 
 - 🌱 I’m currently learning BOOTSTRAP 5 AND SASS 
-- 📫 How to reach me: 𝐌𝐚𝐢𝐥: 𝐚𝐦𝐞𝐞𝐧𝐬𝐚𝐫𝐨𝐭𝐡@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
+- 📫 How to reach me: 𝐌𝐚𝐢𝐥: [𝐚𝐦𝐞𝐞𝐧𝐬𝐚𝐫𝐨𝐭𝐡@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦](https://mail.google.com/mail/)
 
 
 
